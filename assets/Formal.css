@@ -16,7 +16,7 @@
     }
     
     .cartel {
-        max-width: 90%;
+        max-width: 100%;
         height: auto; 
 
         filter: drop-shadow(0px 0px 30px #2a0553);
@@ -27,7 +27,7 @@
 
     .Boton{
 
-        max-width: 80%;
+        max-width: 90%;
         height: auto;
 
         margin-top: 50%;
@@ -40,5 +40,6 @@
     }
 
 }
+
 
 
