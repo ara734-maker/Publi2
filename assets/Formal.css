@@ -13,21 +13,31 @@
     .contenedor{
     text-align: center;
 
-    .Link {
-        filter: drop-shadow(0px 0px 10px #78dd3d);
-        position: absolute;
-        z-index: 2;
-        margin-top: 390px;
-        margin-left: 40px;
-    }
-
     }
     
     .cartel {
+        max-width: 60%;
+        height: auto; 
+
         filter: drop-shadow(0px 0px 30px #2a0553);
-            position: relative;
-            z-index: 1;
+        position: relative;
+        z-index: 1;
     }
 
 
+    .Boton{
+
+        max-width: 50%;
+        height: auto;
+
+        margin-top: 540px;
+        margin-left: 45px;
+
+        filter: drop-shadow(0px 0px 10px #78dd3d);
+        position: absolute;
+        z-index: 2;
+
+    }
+
 }
+
